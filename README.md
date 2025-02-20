@@ -1,4 +1,5 @@
-# Netflix Content Analysis
+# Streaming Analytics: A Deep Dive Using SQL![image](https://github.com/user-attachments/assets/12a4989b-638a-425d-a3d2-069575ce0673)
+
 
 ## 📌 Project Overview
 This project focuses on analyzing Netflix's movie and TV show dataset using **PostgreSQL 17**. The objectives include:
